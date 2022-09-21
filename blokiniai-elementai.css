@@ -1,0 +1,22 @@
+.raudonas {
+    height: 200px;
+    border: 2px solid black;
+    background-color: red;
+    margin: 5px;
+}
+
+.zalias {
+    height: 100px;
+    width: 40%;
+    border: 2px dashed black;
+    background-color: green;
+    margin: 5px;
+}
+
+
+.geltonas {
+    height: 50px;
+    width: 90%;
+    margin: 1px;
+    background-color: yellow;
+}
