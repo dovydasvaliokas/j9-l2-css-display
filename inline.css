@@ -1,0 +1,12 @@
+.raudonas {
+    height: 200px;
+    width: 400px;
+    background-color: red;
+    margin: 1px;
+    display: inline;
+}
+
+.istisine-pastraipa {
+    display: inline;
+    border: 2px solid black;
+}
